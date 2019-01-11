@@ -3,7 +3,5 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll(range)
-  return rand(range)
+  return rand(1..6)
 end
-
-printf roll(1..6)
