@@ -5,3 +5,5 @@
 def roll(1..6)
   return
 end
+
+printf roll
