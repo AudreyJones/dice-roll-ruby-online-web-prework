@@ -4,5 +4,5 @@
 
 def roll(range)
   range = (1..6)
-  rand(range)
+  return (rand(range))
 end
